@@ -6,3 +6,5 @@ Fixed: https://github.com/p2r3/bareiron/commit/ddb071c36f686832c580fc9b7b2fbfae8
 <img width="709" height="799" alt="image" src="https://github.com/user-attachments/assets/80b4e7fd-30e3-4c7f-8d49-addc5e7d9edd" />
 <img width="721" height="662" alt="image" src="https://github.com/user-attachments/assets/ab7c1111-9aa0-47e2-b347-c882c89a089d" />
 <img width="722" height="675" alt="image" src="https://github.com/user-attachments/assets/65d406cd-7023-4a0d-b189-f748a4e53d75" />
+
+https://www.youtube.com/watch?v=LLTLZ_Noghs
